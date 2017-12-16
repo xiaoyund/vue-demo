@@ -26,3 +26,10 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ![](https://github.com/xiaoyund/vue-demo/blob/master/1.jpg)
 ![](https://github.com/xiaoyund/vue-demo/blob/master/2.jpg)
+
+
+是否生成map文件
+==== 
+
+![](https://github.com/xiaoyund/vue-demo/blob/master/3.jpg)
+![](https://github.com/xiaoyund/vue-demo/blob/master/4.jpg)
