@@ -21,3 +21,6 @@ export default {
   margin-top: 60px;
 }
 </style>
+<style lang="stylus">
+  @import "stylus/comm.styl";
+</style>
