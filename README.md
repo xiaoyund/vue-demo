@@ -33,3 +33,10 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ![](https://github.com/xiaoyund/vue-demo/blob/master/3.jpg)
 ![](https://github.com/xiaoyund/vue-demo/blob/master/4.jpg)
+
+
+vue异步组件
+==== 
+![](https://github.com/xiaoyund/vue-demo/blob/master/5.jpg)
+![](https://github.com/xiaoyund/vue-demo/blob/master/6.jpg)
+![](https://github.com/xiaoyund/vue-demo/blob/master/7.jpg)
