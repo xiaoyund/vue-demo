@@ -40,3 +40,11 @@ vue异步组件
 ![](https://github.com/xiaoyund/vue-demo/blob/master/5.jpg)
 ![](https://github.com/xiaoyund/vue-demo/blob/master/6.jpg)
 ![](https://github.com/xiaoyund/vue-demo/blob/master/7.jpg)
+
+
+引入elementUi
+==== 
+![](https://github.com/xiaoyund/vue-demo/blob/master/8.jpg)
+![](https://github.com/xiaoyund/vue-demo/blob/master/9.jpg)
+![](https://github.com/xiaoyund/vue-demo/blob/master/10.jpg)
+![](https://github.com/xiaoyund/vue-demo/blob/master/11.jpg)
